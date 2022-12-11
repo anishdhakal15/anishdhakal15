@@ -5,7 +5,6 @@
 <div align="center">
 <h1 align="center">Hi , I'm Anish</h1>
 </div>
-<details>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -54,6 +53,5 @@
      <br>
      </samp>
   </div>    
-</details>
 </body>
 </html>
